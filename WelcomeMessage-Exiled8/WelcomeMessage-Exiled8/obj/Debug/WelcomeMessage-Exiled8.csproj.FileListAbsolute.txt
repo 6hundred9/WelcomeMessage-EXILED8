@@ -1,0 +1,5 @@
+C:\Users\66hun\Documents\zKod\WelcomeMessage-Exiled8\WelcomeMessage-Exiled8\bin\Debug\WelcomeMessage-Exiled8.dll
+C:\Users\66hun\Documents\zKod\WelcomeMessage-Exiled8\WelcomeMessage-Exiled8\obj\Debug\WelcomeMessage-Exiled8.csproj.AssemblyReference.cache
+C:\Users\66hun\Documents\zKod\WelcomeMessage-Exiled8\WelcomeMessage-Exiled8\obj\Debug\WelcomeMessage-Exiled8.csproj.CoreCompileInputs.cache
+C:\Users\66hun\Documents\zKod\WelcomeMessage-Exiled8\WelcomeMessage-Exiled8\obj\Debug\WelcomeMessage-Exiled8.dll
+C:\Users\66hun\Documents\zKod\WelcomeMessage-Exiled8\WelcomeMessage-Exiled8\obj\Debug\WelcomeMessage-Exiled8.csproj.Fody.CopyLocal.cache
